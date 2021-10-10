@@ -7,4 +7,4 @@ A harmonized classification reference for Software Development Security defensiv
 Software security engineers team guidance resources to be customize and used for organizational guidance and training of 
 software development solution architects, programmers, and testers.
 
-**Status**: In-Work Initial Draft
+**Status**: [In-Work Initial Draft](https://1drv.ms/w/s!Al4g52SVlGpEgwn5jFGrWvWHZAxk)
